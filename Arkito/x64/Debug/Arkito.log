@@ -1,0 +1,16 @@
+﻿  dllmain.cpp
+  BasicTypes_Package.cpp
+C:\Program Files\CheatGear\Result\Arkito\1\Cpp\Arkito\SDK\BasicTypes_Package.cpp(150,38): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Program Files\CheatGear\Result\Arkito\1\Cpp\Arkito\SDK\BasicTypes_Package.cpp(163,11): warning C4101: 'string_CharLevel': unreferenced local variable
+C:\Program Files\CheatGear\Result\Arkito\1\Cpp\Arkito\SDK\BasicTypes_Package.cpp(207,12): warning C4101: 'string_CharLevel': unreferenced local variable
+C:\Program Files\CheatGear\Result\Arkito\1\Cpp\Arkito\SDK\BasicTypes_Package.cpp(232,12): warning C4101: 'string_CharLevel': unreferenced local variable
+C:\Program Files\CheatGear\Result\Arkito\1\Cpp\Arkito\SDK\BasicTypes_Package.cpp(275,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'uintptr_t'
+C:\Program Files\CheatGear\Result\Arkito\1\Cpp\Arkito\SDK\BasicTypes_Package.cpp(275,10): message : consider using '%lld' in the format string
+C:\Program Files\CheatGear\Result\Arkito\1\Cpp\Arkito\SDK\BasicTypes_Package.cpp(275,10): message : consider using '%Id' in the format string
+C:\Program Files\CheatGear\Result\Arkito\1\Cpp\Arkito\SDK\BasicTypes_Package.cpp(275,10): message : consider using '%I64d' in the format string
+C:\Program Files\CheatGear\Result\Arkito\1\Cpp\Arkito\SDK\BasicTypes_Package.cpp(302,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'uintptr_t'
+C:\Program Files\CheatGear\Result\Arkito\1\Cpp\Arkito\SDK\BasicTypes_Package.cpp(302,10): message : consider using '%lld' in the format string
+C:\Program Files\CheatGear\Result\Arkito\1\Cpp\Arkito\SDK\BasicTypes_Package.cpp(302,10): message : consider using '%Id' in the format string
+C:\Program Files\CheatGear\Result\Arkito\1\Cpp\Arkito\SDK\BasicTypes_Package.cpp(302,10): message : consider using '%I64d' in the format string
+  Generating Code...
+  Arkito.vcxproj -> C:\Program Files\CheatGear\Result\Arkito\1\Cpp\x64\Debug\Arkito.dll
